@@ -13,3 +13,8 @@
 - IDEA(Fiddler + WireShark)
 
 - 了解对方Ip地址(QQ 视频电话)
+
+
+## Selenium chrome驱动下载
+
+http://chromedriver.storage.googleapis.com/index.html
