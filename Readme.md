@@ -1,20 +1,18 @@
 # Java selenium crawler
 
-## 主体思路
+一个简单的Java selenium crawler
 
-- 网络协议 Http Socket 
+## 相关资料及链接
 
-- HTTP 协议详解
+(Selenium官网)[https://docs.seleniumhq.org/]
 
-- Tomcat WebSocket Grpc
+(Chrome WebDriver For China)[http://npm.taobao.org/mirrors/chromedriver/]
 
-- Chrome(Fiddler + WireShark)
+(github For Selenium)[https://github.com/SeleniumHQ/selenium]
 
-- IDEA(Fiddler + WireShark)
+(Chrome Environment For Centos7.x)[https://intoli.com/blog/installing-google-chrome-on-centos/]
 
-- 了解对方Ip地址(QQ 视频电话)
+### 更多关于Selenium分享
 
+(Java selenium crawler Book)[https://boommanpro.github.io/java-selenium-crawler/#/] Use Docsify
 
-## Selenium chrome驱动下载
-
-http://chromedriver.storage.googleapis.com/index.html
