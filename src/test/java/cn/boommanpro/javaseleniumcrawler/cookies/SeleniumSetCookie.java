@@ -1,10 +1,10 @@
 package cn.boommanpro.javaseleniumcrawler.cookies;
 
+import java.util.Set;
+
 import org.openqa.selenium.Cookie;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
-import java.util.Set;
 
 /**
  * @author <a href="mailto:boommanpro@gmail.com">BoomManPro</a>
