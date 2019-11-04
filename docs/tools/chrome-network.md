@@ -22,7 +22,26 @@
 
 ## 一个请求我们关心的点
 
-1. 抓包分析 请求和相应
+1. 抓包分析 请求和响应
 2. View Source
 3. HTTP中的关键参数
 4. 查看cookie几种方式 
+
+
+Query String Parameters 浏览器后面拼接 当发起一次GET请求时，参数会以url string的形式进行传递。即?后的字符串则为其请求参数，并以&作为分隔符。
+ 
+Request payload 不会显式出现在url后 内容存放在报文主体 无固定格式
+
+Form Data       不会显式出现在url后 内容存放在报文主体 有固定格式
+
+
+### 特殊Header的妙用
+
+Referer 统计跳转
+
+![chrome-referer.png](https://raw.githubusercontent.com/BoomManPro/java-selenium-crawler/master/docs/stastic/images/chrome-referer.png)
+
+
+## Links
+
+图解HTTP http://pan.baidu.com/s/1jI64ar0 密码：cfft
