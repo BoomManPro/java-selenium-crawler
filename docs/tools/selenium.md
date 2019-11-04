@@ -20,7 +20,7 @@
 
 1. 查询baidu搜索明略科技第一次词条的地址是否为 https://www.mininglamp.com/
 2. 复杂信息校验 之前的项目
-3. 手动编写项目的登录自动化测试
+
 
 
 
@@ -143,6 +143,24 @@ WindowHandles
 
 无法对 NetWork抓包
 
+## 手动编写项目的登录自动化测试
+
+1. 安装一个浏览器Chrome 版本和位数要和驱动一致
+2. 下载Selenium Chrome驱动
+3. 配置依赖
+
+```xml
+        <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>4.0.0-alpha-2</version>
+        </dependency>
+```
+
+4.利用Selenium驱动录制脚本
+
+5.Run
 
 
 
