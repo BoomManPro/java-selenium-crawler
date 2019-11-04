@@ -1,24 +1,18 @@
-# Java selenium crawler
+# Selenium主题分享
 
 ## 主体思路
 
-- 网络协议 Http Socket 
+- Selenium
 
-- HTTP 协议详解
+- Chrome(NetWork + Fiddler + WireShark)
 
-- Tomcat WebSocket Grpc
+- 浏览器插件 -> 油猴插件 Tampermonkey
 
-- Chrome(Fiddler + WireShark)
+- IDEA(Fiddler)
 
-- IDEA(Fiddler + WireShark)
+- 获取对方Ip地址(QQ 视频电话)
 
-- 了解对方Ip地址(QQ 视频电话)
+- 网络协议 Http WebSocket Socket(TCP-UDP)  GRPC Thrift Dubbo
 
 
-## 工具介绍
 
-[WireShark](https://www.wireshark.org/)
-
-[Fiddler](https://www.telerik.com/fiddler)
-
-[安卓抓包 开发者助手](https://www.coolapk.com/apk/com.toshiba_dealin.developerhelper)
